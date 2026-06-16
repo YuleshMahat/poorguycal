@@ -5,7 +5,7 @@ _Last updated: June 2026_
 
 ## 1. Overview
 
-PoorGuy Cal (“the App”) is a calorie tracking and nutrition planning application that allows users to create meals, add ingredients, log food intake, set nutrition goals, and view daily dashboards.
+PoorGuy Cal is a calorie tracking and nutrition planning application that allows users to create meals, add ingredients, log food intake, set nutrition goals, and view daily dashboards.
 
 We respect your privacy and are committed to protecting your personal information.
 
